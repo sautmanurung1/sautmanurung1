@@ -1,6 +1,5 @@
 ### Hi there 👋
-
-https://www.codewars.com/users/sautmanurung1/badges/large
+![large](https://user-images.githubusercontent.com/68042498/129438041-0a474293-665a-4479-bb8a-07b60d927f7d.png)
 
 Here are some ideas to get you started:
 
