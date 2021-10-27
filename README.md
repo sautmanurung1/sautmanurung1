@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 
 <details>
   <img src="https://github-readme-stats.vercel.app/api?username=sautmanurung1&theme=react&show_icons=true&custom_title=Saut%20Manurung%27s%20GitHub%20Stats" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=sautmanurung1&theme=react&layout=compact&langs_count=10&custom_title=Saut%20Manurung%27s%20Wakatime%20Stats" alt="Wakatime Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sautmanurung1&theme=tokyonight"
 </details>
