@@ -2,7 +2,7 @@
 
 Here are some ideas to get you started:
 
-- 🌱 I’m currently learning Javascript, Java, Cloud Computing, Ethical Hacker, Database
+- 🌱 I’m currently learning Javascript, Java, C Family, Cloud Computing, Ethical Hacker, Database
 - 👯 I’m looking to collaborate on Backend Engineer
 - 🤔 I’m looking for help with Error Code
 - 💬 Ask me about Backend Developer
@@ -12,5 +12,6 @@ Here are some ideas to get you started:
 
 <details>
   <img src="https://github-readme-stats.vercel.app/api?username=sautmanurung1&theme=react&show_icons=true&custom_title=Saut%20Manurung%27s%20GitHub%20Stats" alt="GitHub Stats" />
+  <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sautmanurung1&theme=tokyonight"
 </details>
