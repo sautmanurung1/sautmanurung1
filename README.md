@@ -6,7 +6,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Backend Engineer
 - 🤔 I’m looking for help with Error Code
 - 💬 Ask me about Backend Developer
-- 📫 How to reach me: [linkedin](https://www.linkedin.com/in/saut-manurung-112349163/)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/saut-manurung-112349163/)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm Newbie in Programming
 
