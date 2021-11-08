@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/saut-manurung-112349163/)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm Newbie in Programming
-
+[!Snake Animation](https://github.com/sautmanurung1/sautmanurung1/blob/output/github-contribution-grid-snake.gif)
 <details>
   <img src="https://github-readme-stats.vercel.app/api?username=sautmanurung1&theme=react&show_icons=true&custom_title=Saut%20Manurung%27s%20GitHub%20Stats" alt="GitHub Stats" />
   <br>
