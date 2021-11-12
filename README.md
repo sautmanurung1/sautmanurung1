@@ -10,6 +10,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm Newbie in Programming
 
+```java
+
+```
 <div align="center">
   <a href="https://github.com/sautmanurung1">
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=sautmanurung1&theme=react&show_icons=true&custom_title=Saut%20Manurung%27s%20GitHub%20Stats" alt="GitHub     Stats" />
