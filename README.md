@@ -5,8 +5,8 @@ public class AboutMe {
         String[] learn = { "Cloud Computing", "Ethical Hacker", "Database" };
         String[] OS = { "Linux", "Windows" };
         
-        System.out.println("Beginner Backend Developer at :" + code[0]);
-        System.out.println("Newbie Programming at : " + code[1]);
+        System.out.println("Beginner Backend Developer at : " + code[0] + " and " + code[2]);
+        System.out.println("Newbie Programmer at : " + code[1]);
         System.out.println("He/Him");
     }
 }
