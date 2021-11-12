@@ -1,21 +1,13 @@
-### Hi there 👋
-
-Here are some ideas to get you started:
-
-- 🌱 I’m currently learning Javascript, Java, C Family, Cloud Computing, Ethical Hacker, Database
-- 👯 I’m looking to collaborate on Backend Engineer
-- 🤔 I’m looking for help with Error Code
-- 💬 Ask me about Backend Developer
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/saut-manurung-112349163/)
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I'm Newbie in Programming
-
 ```java
-public class StringJava {
+public class AboutMe {
     public static void main(String[] args){
-        String nama = "Anna";
-        String nama2 = "Jeon Somi";
-        String kalimat = "indonesia memiliki 34 provinsi";
+        String[] code = { "Javascript", "Java", "PHP", "C++" };
+        String[] learn = { "Cloud Computing", "Ethical Hacker", "Database" };
+        String[] OS = { "Linux", "Windows" };
+        
+        System.out.println("Beginner Backend Developer");
+        System.out.println("Newbie Programming");
+        System.out.println("He/Him");
     }
 }
 ```
