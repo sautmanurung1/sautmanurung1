@@ -1,12 +1,12 @@
 ```java
 public class AboutMe {
     public static void main(String[] args){
-        String code = "Javascript", "Java", "PHP", "C++" ;
-        String learn = "Cloud Computing", "Ethical Hacker", "Database" ;
-        String OS = "Linux", "Windows" ;
+        String[] code = { "Javascript", "Java", "PHP", "C++" };
+        String[] learn = { "Cloud Computing", "Ethical Hacker", "Database" };
+        String[] OS = { "Linux", "Windows" };
         
-        System.out.println("Beginner Backend Developer" + code);
-        System.out.println("Newbie Programming");
+        System.out.println("Beginner Backend Developer at :" + code[0]);
+        System.out.println("Newbie Programming at : " + code[1]);
         System.out.println("He/Him");
     }
 }
