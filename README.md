@@ -11,7 +11,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I'm Newbie in Programming
 
 ```java
-
+public class StringJava {
+    public static void main(String[] args){
+        String nama = "Anna";
+        String nama2 = "Jeon Somi";
+        String kalimat = "indonesia memiliki 34 provinsi";
+    }
+}
 ```
 <div align="center">
   <a href="https://github.com/sautmanurung1">
