@@ -4,9 +4,10 @@ public class AboutMe {
         String[] code = { "Javascript", "Java", "PHP", "C++" };
         String[] learn = { "Cloud Computing", "Ethical Hacker", "Database" };
         String[] OS = { "Linux", "Windows" };
+        String[] Tools = { "VS Code", "Postman", "Virtual Box", "XAMPP" }
         
         System.out.println("Beginner Backend Developer at : " + code[0] + " and " + code[2]);
-        System.out.println("Newbie Programmer at : " + code[1]);
+        System.out.println("Newbie Programmer at : " + code[1] + " and " + code[3]);
         System.out.println("He/Him");
     }
 }
