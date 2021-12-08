@@ -8,6 +8,7 @@ public class AboutMe {
         
         System.out.println("Beginner Backend Developer at : " + code[0] + " and " + code[2]);
         System.out.println("Newbie Programmer at : " + code[1] + " and " + code[3]);
+        System.out.println("Still learning about : " + learn[0] + " ," + learn[1] + " and " + learn[2]); 
         System.out.println("He/Him");
     }
 }
