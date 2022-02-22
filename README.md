@@ -3,7 +3,7 @@ public class AboutMe {
     public static void main(String[] args){
         String[] code = { "Javascript", "Java", "PHP", "C++", "Golang/Go" };
         String[] learn = { "Cloud Computing", "Ethical Hacker", "Database" };
-        String[] OS = { "Linux", "Windows" };
+        String[] OS = { "Windows" };
         String[] Tools = { "VS Code", "Postman", "Virtual Box", "XAMPP" }
         
         System.out.println("Beginner Backend Developer at : " + code[0] + " , " + code[2] + " and " + code[4]);
