@@ -16,7 +16,7 @@ public class AboutMe {
 <div align="center">
   <a href="https://github.com/sautmanurung1">
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=sautmanurung1&theme=react&show_icons=true&custom_title=Saut%20Manurung%27s%20GitHub%20Stats" alt="GitHub     Stats" />
-  <img height="240em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sautmanurung1&layout=compact&langs_count=8&theme=algolia" />
+  <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sautmanurung1&layout=compact&langs_count=8&theme=algolia" />
 
    
   ![Snake Animation](https://github.com/sautmanurung1/sautmanurung1/blob/output/github-contribution-grid-snake.gif)
