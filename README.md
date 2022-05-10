@@ -15,7 +15,7 @@ public class AboutMe {
 ```
 <div align="center">
   <a href="https://github.com/sautmanurung1">
-  <img height="280em" src="https://github.com/sautmanurung1/Sautmanurung-github-stat/blob/master/generated/overview.svg" alt="GitHub     Stats" />
+  <img height="250em" src="https://github.com/sautmanurung1/Sautmanurung-github-stat/blob/master/generated/overview.svg" alt="GitHub     Stats" />
   <img height="230em" src="https://github.com/sautmanurung1/Sautmanurung-github-stat/blob/master/generated/languages.svg" />
 
    
