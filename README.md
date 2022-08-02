@@ -14,12 +14,10 @@ public class AboutMe {
 }
 ```
 
----
-
-<h2 align="center">Weekly development breakdown</h2>
-
-<p align="center">
-<!--START_SECTION:waka-->
-    
-<!--END_SECTION:waka-->
-</p>
+<div align="center">
+  <a href="https://github.com/sautmanurung1">
+  <img height="200em" src=""/>
+  <img height="180em" src="" />
+      
+  ![Snake Animation](https://github.com/sautmanurung1/sautmanurung1/blob/output/github-contribution-grid-snake.gif)
+  </a></div>
