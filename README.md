@@ -15,8 +15,8 @@ public class AboutMe {
 ```
 <div align="center">
   <a href="https://github.com/sautmanurung1">
-  <img height="200em" src="https://github.com/sautmanurung1/Sautmanurung-github-stat/blob/master/generated/overview.svg" alt="GitHub     Stats" />
-  <img height="180em" src="https://github.com/sautmanurung1/Sautmanurung-github-stat/blob/master/generated/languages.svg" />
+  <img height="200em" src="" alt="GitHub     Stats" />
+  <img height="180em" src="" />
 
    
   ![Snake Animation](https://github.com/sautmanurung1/sautmanurung1/blob/output/github-contribution-grid-snake.gif)
