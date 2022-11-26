@@ -17,7 +17,7 @@ public class AboutMe {
 ---
 
 <h2 align="center">Weekly development breakdown</h2>
-
+[![wakatime](https://wakatime.com/badge/user/33791fca-8736-4c64-8881-e10ce8cd9773.svg)](https://wakatime.com/@33791fca-8736-4c64-8881-e10ce8cd9773)
 <p align="center">
 <!--START_SECTION:waka-->
 
