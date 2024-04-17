@@ -21,7 +21,7 @@ public class AboutMe {
 <h2 align="center">Weekly development breakdown</h2>
 <a href="https://wakatime.com/@33791fca-8736-4c64-8881-e10ce8cd9773"><img src="https://wakatime.com/badge/user/33791fca-8736-4c64-8881-e10ce8cd9773.svg" alt="Total time coded since Aug 2 2022" /></a>
 <a href="https://indogithubers.vercel.app/">
-    <img src="https://indogithubers-badge.vercel.app/badge?username=sautmanurung1" alt="IndoGitHubers Badge">
+    <img src="https://indogithubers-badge.vercel.app/badge?username=sautmanurung1&style=plastic&color=blue" alt="IndoGitHubers Badge">
 </a>
 <p align="center">
 <!--START_SECTION:waka-->
