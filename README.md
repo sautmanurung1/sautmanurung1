@@ -3,7 +3,7 @@ public class AboutMe {
     public static void main(String[] args){
         String name = "Saut Kristian Wiratama Manurung";
         String gender = "He/Him";
-        String[] code = { "Javascript", "Java", "PHP", "C++", "Golang/Go", "Python" };
+        String[] code = { "Javascript/Typescript", "Java", "PHP", "C++", "Golang/Go", "Python" };
         String[] learn = { "Cloud Computing", "Ethical Hacker", "Database" };
         String[] OS = { "Windows" };
         String[] Tools = { "VS Code", "Postman", "Virtual Box", "XAMPP" };
