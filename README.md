@@ -51,12 +51,12 @@ public class AboutMe {
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 August 2022 - To: 16 July 2024
+From: 01 August 2022 - To: 17 July 2024
 
-Total Time: 1,281 hrs 31 mins
+Total Time: 1,282 hrs 15 mins
 
-PHP               455 hrs 39 mins ⣿⣿⣿⣿⣿⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   35.56 %
-Go                296 hrs 43 mins ⣿⣿⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   23.15 %
+PHP               455 hrs 55 mins ⣿⣿⣿⣿⣿⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   35.56 %
+Go                296 hrs 59 mins ⣿⣿⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   23.16 %
 TypeScript        125 hrs 51 mins ⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   09.82 %
 Python            104 hrs 6 mins  ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   08.12 %
 JavaScript        97 hrs 46 mins  ⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   07.63 %
