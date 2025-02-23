@@ -45,7 +45,7 @@ public class AboutMe {
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 August 2022 - To: 22 February 2025
+From: 01 August 2022 - To: 23 February 2025
 
 Total Time: 1,905 hrs 8 mins
 
