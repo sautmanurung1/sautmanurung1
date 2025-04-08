@@ -45,9 +45,9 @@ public class AboutMe {
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 August 2022 - To: 07 April 2025
+From: 01 August 2022 - To: 08 April 2025
 
-Total Time: 1,980 hrs 6 mins
+Total Time: 1,980 hrs 9 mins
 
 PHP               574 hrs 35 mins ⣿⣿⣿⣿⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   29.02 %
 Go                444 hrs 37 mins ⣿⣿⣿⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   22.45 %
