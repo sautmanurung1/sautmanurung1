@@ -45,15 +45,15 @@ public class AboutMe {
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 August 2022 - To: 05 June 2025
+From: 01 August 2022 - To: 06 June 2025
 
-Total Time: 2,077 hrs 24 mins
+Total Time: 2,079 hrs 5 mins
 
-PHP               587 hrs 7 mins  ⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   28.26 %
-Go                497 hrs 52 mins ⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   23.97 %
-TypeScript        199 hrs 12 mins ⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   09.59 %
+PHP               587 hrs 7 mins  ⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   28.24 %
+Go                497 hrs 52 mins ⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   23.95 %
+TypeScript        200 hrs 21 mins ⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   09.64 %
 Other             126 hrs 6 mins  ⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   06.07 %
-Python            120 hrs 29 mins ⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   05.80 %
+Python            120 hrs 52 mins ⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   05.81 %
 ```
 
 <!--END_SECTION:waka-->
